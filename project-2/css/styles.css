@@ -5,11 +5,29 @@ html{
 }
 body{
     font-family: 'Libre Franklin', sans-serif;
+    font-weight: 300px;
 }
 
 h1 {
-    font-family: 500;
-}
+    font-size: 18px;
+    font-weight: 300px;
+    letter-spacing: 1px;
+    color:#f2f2f2;}
+    h2{
+        font-weight: 500px;
+        font-size: 14px;
+        letter-spacing: 2px;
+        margin-bottom: 1 rem;
+        text-transform: uppercase;
+        
+    }
+    
+   p {
+       font-weight: 300px;
+       letter-spacing: 1px;
+       line-height: 1.5;
+       margin-bottom: 1rem;
+   } 
 .grid{
     display: grid;
     grid-template-columns: [full-start] minmax(1rem, 1fr) [main-start] minmax(0, 1280px)[main-end]  minmax(1rem, 1fr) [full-end];
@@ -17,3 +35,26 @@ h1 {
 .grid > * {
     grid-column: main;
 }
+
+header{
+    background-color: var(--gray-dark);
+    padding: 1rem 0;
+}
+.overview{
+    background-color: var(--gray);
+    color:white;
+    padding: 4rem 0;
+}
+figure{
+    margin-top: 2rem;
+}
+figure img{
+    margin-bottom: 1rem; 
+}
+figcaption{
+    font-size: 13px;
+    font-style: italic;
+    letter-spacing: 1px;
+
+}
+
