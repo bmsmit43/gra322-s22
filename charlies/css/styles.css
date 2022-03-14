@@ -9,7 +9,7 @@ body, html {
     padding-top: 10px;
     padding-bottom: 20px;
     padding-left: 30px;
-    padding-right: 40px;
+    padding-right: 0px;
     
   }
   h1{
@@ -100,7 +100,8 @@ img{
   width: 100%;
 }
   figure{
-   width: fit-content;
+   width: 100%;
+   width: 60%;margin: left 0;;margin: right 0; ;
   }
 
   div {
@@ -114,5 +115,8 @@ img{
       display: grid;
       grid-gap: 3rem;
       grid-template-columns: 1fr 1fr;
-      -ms-flex-item-align: start;
     }
+  }
+  section{
+    background-color: rgb(255, 255, 255);
+  }
