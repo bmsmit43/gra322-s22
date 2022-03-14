@@ -34,22 +34,23 @@ body, html {
     
   }
   #navbar {
+    display: flex;
     background-color: rgb(0, 0, 0); /* Black background color */
+    color:rgb(255, 255, 255);
     width: 100%; /* Full width */
   }
   
   /* Style the navbar links */
   #navbar a {
-    float: inline-start;
     display: block;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 15px;
     text-decoration: none;
   }
   
   #navbar a:hover {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
   }
   h3{
@@ -80,7 +81,7 @@ body, html {
   h6{
     font-size: 30px;
     padding: 20px;
-    padding-left: 200px;
+    padding-left: 150px;
   padding-right: 40px;
   border-bottom: 2px solid rgb(0, 0, 0);
   }
