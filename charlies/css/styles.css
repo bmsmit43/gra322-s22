@@ -100,15 +100,19 @@ img{
   width: 100%;
 }
   figure{
-    padding-left: 30px;
-    padding-right: 40px;
-    padding: 20px;
+   width: fit-content;
   }
 
   div {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     padding-left: 30px;
     padding-right: 40px;
     padding: 20px;
   }
-  
+  @media screen {
+    .two-column{
+      display: grid;
+      grid-gap: 3rem;
+      grid-template-columns: 1fr 1fr;
+      -ms-flex-item-align: start;
+    }
