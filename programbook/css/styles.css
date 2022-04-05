@@ -89,7 +89,7 @@
   @keyframes fade {
     from {opacity: .5}
     to {opacity: 2}}
-    
+
     ul {
       list-style-type: none;
       margin: 0;
@@ -104,4 +104,10 @@
       display: block;
       padding: 8px;
       background-color: #dddddd;
+    }
+    h1{
+      font-family: 'Libre Franklin', sans-serif;
+    }
+    .curentpage{
+      font-weight:bold
     }
