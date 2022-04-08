@@ -105,8 +105,9 @@
       padding: 8px;
       background-color: #dddddd;
     }
-    h1{
+    html{
       font-family: 'Libre Franklin', sans-serif;
+      padding: 2rem;
     }
     .curentpage{
       font-weight:bold
