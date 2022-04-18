@@ -98,6 +98,7 @@
     
     li {
       float: left;
+      display: flex;
     }
     
     a {
@@ -128,12 +129,14 @@ h4{
 }
 table{
   padding: 10rem;
+  display: flex;
 }
 ul{
   width: 100%;
   padding-left: 10rem;
   padding-top: 10rem;
   padding-bottom: 10rem;
+  display: flex;
 }
 h3{
   width: auto;
