@@ -55,6 +55,8 @@ figcaption{
     font-size: 13px;
     font-style: italic;
     letter-spacing: 1px;
-
 }
-
+footer{
+    background-color: var(--gray-light);
+    padding: 1.5rem;
+}

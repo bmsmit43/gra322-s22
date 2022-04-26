@@ -128,14 +128,14 @@ h4{
   color: #a7a2a2;
 }
 table{
-  padding: 10rem;
+  padding: 2rem;
   display: flex;
 }
 ul{
   width: 100%;
   padding-left: 10rem;
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   display: flex;
 }
 h3{
