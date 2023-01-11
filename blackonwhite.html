@@ -1,28 +1,56 @@
 <!doctype html>
 <html>
+  
 <head>
-<meta charset="UTF-8">
-<title>Squares</title>
-<link href="singlePageTemplate.css" rel="stylesheet" type="text/css">
-
-<body>
-<h1>Project One</h1>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.square {
-  height: 1000px;
-  width: 1000px;
-  background-color: #000000;
-}
-</style>
+    <style>
+        body {
+            font-family: "Times New Roman", sans-serif;
+            color: black;
+            text-align: center;
+        }
+  
+        h2 {
+            font-weight: bold;
+            padding: 0 10px;
+            margin-bottom: 10px;
+        }
+  
+        .parentClass {
+            background: black;
+            width: 500px;
+             margin: auto;
+            height: 500px;
+        }
+  
+        .firstchild {
+          width: 250px;
+             margin-left: auto;
+  margin-right: auto;
+            height: 250px;
+        }
+  
+       
+  
+        .childClass {
+            width: 250px;
+             margin-left: auto;
+  margin-right: auto;
+            height: 250px;
+  background: #FFFFFF
+        }
+    </style>
 </head>
+  
 <body>
-
-<h2>Square CSS</h2>
-<div class="square"></div>
-
+  
+    <div class="parentClass">
+        <h2>I am Parent</h2>
+        <div class="childClass firstchild">
+            <h2>First Child </h2>
+        </div>
+  
+      
+    </div>
 </body>
-
-
-</body>
+  
 </html>
