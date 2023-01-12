@@ -1,0 +1,61 @@
+@charset "UTF-8";
+@import url("bwsquares2.css");
+.body {
+    display: flex;
+}
+.webpage {
+    display: flex;
+    background: #000;
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+}
+.exterior {
+    display: flex;
+    background: #fff;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
+.interior {
+    display: flex;
+    background: #000;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+.secondwebpage {
+    display: flex;
+    background: #fff;
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+}
+.interiorinterior {
+    display: flex;
+    background: black;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    margin: auto;
+}
+.secondexterior {
+    display: flex;
+    background: #000;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
+.secondinterior {
+    display: flex;
+    background: #fff;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+.secondinteriorinterior {
+    display: flex;
+    background: #000;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    margin: auto;
+}
