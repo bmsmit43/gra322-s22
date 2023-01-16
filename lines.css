@@ -2,6 +2,13 @@
 .body {
     display: flex;
 }
+		.vl {
+		 background: #000;
+			width: 2.5vw;
+			height: 90vh;
+			margin: auto;
+		}
+
 .h1{
 	text-color: black;
 	
