@@ -1,6 +1,7 @@
 @charset "UTF-8";
 .body {
     display: flex;
+	margin: auto;
 }
 .h1{
 	text-color: black;
