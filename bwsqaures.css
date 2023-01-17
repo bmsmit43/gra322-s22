@@ -1,6 +1,7 @@
 @charset "UTF-8";
 .body {
     display: flex;
+	margin: auto;
 }
 .webpage {
     display: flex;
@@ -11,10 +12,13 @@
 }
 .exterior {
     display: flex;
-    background: #000;
+    background: #fff;
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
+	border-style: solid;
+	border-color: #d3d3d3;
+	border-width: 1px;
 }
 .interior {
     display: flex;
@@ -22,6 +26,9 @@
     width: 42.857143vw;
     height: 42.857143vh;
     margin: auto;
+	border-style: solid;
+	border-color: #d3d3d3;
+	border-width: 1px;
 }
 .secondwebpage {
     display: flex;
