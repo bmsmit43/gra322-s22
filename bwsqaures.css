@@ -22,7 +22,7 @@
 }
 .interior {
     display: flex;
-    background: #fff;
+    background: #000;
     width: 42.857143vw;
     height: 42.857143vh;
     margin: auto;
@@ -39,7 +39,7 @@
 }
 .interiorinterior {
     display: flex;
-    background: black;
+    background: #fff;
     width: 14.285714vw;
     height: 14.285714vh;
     margin: auto;
