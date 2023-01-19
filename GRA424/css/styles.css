@@ -65,4 +65,73 @@ body{
     margin: auto;
 }
 
+.container {
+    display: flex;
+    width: 100%;
+    float: left;
+    flex-wrap: wrap;
+}
+.colorsquare7 {
+    display: flex;
+        width: 14.285714vw;
+        height: 14.285714vh;
+        background-color: #C29C57;
+    }
+    
+    .colorsquare8 {
+    display: flex;
+        width: 14.285714vw;
+        height: 14.285714vh;
+        background-color: #F5DAAD;
+    }
+    
+    .colorsquare9 {
+    display: flex;
+        width: 14.285714vw;
+        height: 14.285714vh;
+        background-color: #23231C;
+    }
+    
+    .colorsquare4 {
+    display: flex;
+        width: 14.285714vw;
+        height: 14.285714vh;
+        background-color: #9ECEBE;
+    }
+    
+    .colorsquare5 {
+    display: flex;
+        width: 14.285714vw;
+        height: 14.285714vh;
+        background-color: #fff;
+    }
+    
+    .colorsquare6 {
+    display: flex;
+        width: 14.285714vw;
+        height: 14.285714vh;
+        background-color: #75BEB0;
+    }
+    
+    .colorsquare1 {
+    display: flex;
+        width: 14.285714vw;
+        height: 14.285714vh;
+        background-color: #DC534F;
+    }
+    
+    .colorsquare2 {
+    display: flex;
+        width: 14.285714vw;
+        height: 14.285714vh;
+        background-color: #EFD9AE;
+    }
+    
+    .colorsquare3 {
+    display: flex;
+        width: 14.285714vw;
+        height: 14.285714vh;
+        background-color: #DC5D62;
+    }
+
 
