@@ -257,3 +257,104 @@ body{
                 }
 
 
+                .container {
+                    display: flex;
+                    width: 100%;
+                    float: left;
+                    flex-wrap: wrap;
+                }
+                
+                
+                .colorsquare1 {
+                display: flex;
+                width: 21.4285715vw;
+                height: 21.4285715vh;
+                background-color: #563750;
+                }
+                
+                .colorsquare2 {
+                display: flex;
+                width: 21.4285715vw;
+                height: 21.4285715vh;
+                background-color: #d4b3cd;
+                }
+                
+                .colorsquare3 {
+                display: flex;
+                width: 21.4285715vw;
+                height: 21.4285715vh;
+                background-color: #785670;
+                }
+                
+                .colorsquare4 {
+                display: flex;
+                width: 21.4285715vw;
+                height: 21.4285715vh;
+                background-color: #a37e9b;
+                }
+                
+                
+                /*Start of inner square colors-----------------------*/
+                
+                
+                .small-container {
+                    display: flex;
+                    width: 100%;
+                    float: left;
+                    flex-wrap: wrap;
+                }
+                
+                
+                .small-colorsquare1 {
+                    display: flex;
+                    width: 7.1428571667vw;
+                    height: 7.1428571667vh;
+                    background-color: #275246;
+                    position: absolute;
+                    top: 46.4363%;
+                    left: 46.45%;
+                    transform: translate(-50%,-50%);
+                    z-index: 1;
+                    flex-wrap: wrap;
+                }
+                
+                .small-colorsquare2 {
+                    display: flex;
+                    width: 7.1428571667vw;
+                    height: 7.1428571667vh;
+                    background-color: #088d65;
+                    position: absolute;
+                    top: 46.4363%;
+                    left: 46.45%;
+                    transform: translate(50%,-50%);
+                    z-index: 1;
+                    flex-wrap: wrap;
+                }
+                
+                .small-colorsquare3 {
+                    display: flex;
+                    width: 7.1428571667vw;
+                    height: 7.1428571667vh;
+                    background-color: #82cbad;
+                    position: absolute;
+                    top: 46.4363%;
+                    left: 46.45%;
+                    transform: translate(-50%,50%);
+                    z-index: 1;
+                    flex-wrap: wrap;
+                }
+                
+                .small-colorsquare4 {
+                    display: flex;
+                    width: 7.1428571667vw;
+                    height: 7.1428571667vh;
+                    background-color: #2bb692;
+                    position: absolute;
+                    top: 46.4363%;
+                    left: 46.45%;
+                    transform: translate(50%,50%);
+                    z-index: 1;
+                    flex-wrap: wrap;
+                }
+                
+                
