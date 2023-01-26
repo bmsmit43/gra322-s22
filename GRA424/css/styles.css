@@ -59,7 +59,7 @@ body{
 
 .interiorinterior2 {
     display: flex;
-    background: rgb(233, 228, 228);
+    background: #fff;
     width: 14.285714vw;
     height: 14.285714vh;
     margin: auto;
@@ -103,7 +103,7 @@ body{
     display: flex;
         width: 14.285714vw;
         height: 14.285714vh;
-        background-color: #fff;
+        background-color: rgb(233, 228, 228);
     }
     
     .colorsquare6 {
