@@ -64,7 +64,7 @@ body{
     height: 14.285714vh;
     margin: auto;
 }
-
+ /*Color Matching-----------------------*/
 .container {
     display: flex;
     width: 100%;
@@ -133,6 +133,7 @@ body{
         height: 14.285714vh;
         background-color: #a94b4f;
     }
+    /*Transaprency-----------------------*/
   
     .innermost-square {
         width: 42.857143vw;
@@ -255,7 +256,7 @@ body{
                 bottom: 0;
                 right: 0;
                 }
-
+ /*Value Matching Outside-----------------------*/
 
                 .container {
                     display: flex;
@@ -269,28 +270,28 @@ body{
                 display: flex;
                 width: 21.4285715vw;
                 height: 21.4285715vh;
-                background-color: #563750;
+                background-color: #867230;
                 }
                 
                 .colorsquare2 {
                 display: flex;
                 width: 21.4285715vw;
                 height: 21.4285715vh;
-                background-color: #d4b3cd;
+                background-color: #CABF56;
                 }
                 
                 .colorsquare3 {
                 display: flex;
                 width: 21.4285715vw;
                 height: 21.4285715vh;
-                background-color: #785670;
+                background-color: #A08F36;
                 }
                 
                 .colorsquare4 {
                 display: flex;
                 width: 21.4285715vw;
                 height: 21.4285715vh;
-                background-color: #a37e9b;
+                background-color: #BEB546;
                 }
                 
                 
@@ -309,7 +310,7 @@ body{
                     display: flex;
                     width: 7.1428571667vw;
                     height: 7.1428571667vh;
-                    background-color: #275246;
+                    background-color: #E48229;
                     position: absolute;
                     top: 46.4363%;
                     left: 46.45%;
@@ -322,7 +323,7 @@ body{
                     display: flex;
                     width: 7.1428571667vw;
                     height: 7.1428571667vh;
-                    background-color: #088d65;
+                    background-color: #E19235;
                     position: absolute;
                     top: 46.4363%;
                     left: 46.45%;
@@ -335,7 +336,7 @@ body{
                     display: flex;
                     width: 7.1428571667vw;
                     height: 7.1428571667vh;
-                    background-color: #82cbad;
+                    background-color: #EABD7B;
                     position: absolute;
                     top: 46.4363%;
                     left: 46.45%;
@@ -348,7 +349,7 @@ body{
                     display: flex;
                     width: 7.1428571667vw;
                     height: 7.1428571667vh;
-                    background-color: #2bb692;
+                    background-color: #F0A74F;
                     position: absolute;
                     top: 46.4363%;
                     left: 46.45%;
