@@ -6,6 +6,7 @@ body{
     background: #fff;
     width: 100vw;
     height: 100vh;}
+     /*Square's Base-----------------------*/
 .exterior {
     display: flex;
     background: #fff;
@@ -34,7 +35,7 @@ body{
     height: 14.285714vh;
     margin: auto;
 }
-
+  /*Square's Base 2 -----------------------*/
 .exterior2 {
     display: flex;
     background: #fff;
@@ -63,6 +64,15 @@ body{
     width: 14.285714vw;
     height: 14.285714vh;
     margin: auto;
+}
+ /*Line interaction-----------------------*/
+.interiorline {
+    display: flex;
+    background: #fff;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+
 }
  /*Color Matching-----------------------*/
 .container {
@@ -174,6 +184,7 @@ body{
     bottom: 0;
     right: 0;
 }
+ /*Transaprency 2-----------------------*/
 
                 .innermost-square2 {
                     width: 42.857143vw;
@@ -215,7 +226,7 @@ body{
                 right: 0;
                 }
 
-
+ /*Transaprency 3-----------------------*/
                 
                 .innermost-square3 {
                     width: 42.857143vw;
@@ -358,4 +369,4 @@ body{
                     flex-wrap: wrap;
                 }
                 
-                
+              
