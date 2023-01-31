@@ -370,7 +370,7 @@ body{
                 }
                 .cmwebpage {
                     display: flex;
-                    background: #DEDEDE;
+                    background: #fff;
                     width: 100vw;
                     height: 100vh;
                     margin: auto;
@@ -381,6 +381,9 @@ body{
                     width: 71.428571vw;
                     height: 71.428571vh;
                     margin: auto;
+                    border-style: solid;
+                    border-color: #b0aeae;
+                    border-width: .05px;
                 }
                 .cminterior {
                     display: flex;
