@@ -456,3 +456,11 @@ body{
                     margin: 28.571428vh 28.571428vw 28.571428vh 28.571428vw;
                     object-fit: cover;
                 }
+                .img1 {
+                    width: 42.857143vw;
+                    height: 42.857143vh;
+                    position: relative;
+                    display: inline-block;
+                    margin: auto;
+                    object-fit: contain;
+                }
