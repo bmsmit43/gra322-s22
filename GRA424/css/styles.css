@@ -401,7 +401,7 @@ body{
                     display: flex;
                     width: 42.857143vw;
                     height: 42.857143vh;
-                    object-fit: cover;
+                    margin: auto;
                 }
                 .cminterior {
                     width: 42.857143vw;
