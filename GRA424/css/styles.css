@@ -450,6 +450,7 @@ body{
                     width: 42.857143vw;
                     height: 42.857143vh;
                     margin: auto;
+                    object-fit: cover;
                 
                 }
                 
